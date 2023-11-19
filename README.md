@@ -1,4 +1,4 @@
 ### Hi there 👋
 ### Dive into Data Engineering 🚴
 
-[![@hungnguyen501's Holopin board](https://holopin.io/api/user/board?user=hungnguyen501)](https://www.holopin.io/@hungnguyen501)
+[![An image of @hungnguyen501's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/hungnguyen501)](https://holopin.io/@hungnguyen501)
